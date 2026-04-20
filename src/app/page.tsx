@@ -1,7 +1,7 @@
 export default function Home() {
   return (
     <div>
-      <h1>Pagina super util</h1>
+      <h1>Pagina super util e</h1>
     </div>
   )
 }
